@@ -1,0 +1,2 @@
+# Starsector
+Starsector Mods
