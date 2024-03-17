@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/KnightShii/Starsector/master/metelson.version",
+    "modName":"Metelson Union Republic",
+    "modThreadId":8100,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+}
